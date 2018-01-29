@@ -12,6 +12,6 @@ public class fattorial {
 	for (i=1; i<n; i++) {
 	fatt *= i; 
 	}
-	return fatfattttt; 
+	return fattttt; 
 	}
 }
